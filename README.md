@@ -1,3 +1,8 @@
-## Hi there 👋
+## Hey 👋, This is Khari Stokes
+[![Gmail Badge](https://img.shields.io/badge/-kharistokes9494@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kharistokes9494@gmail.com)](mailto:kharistokes9494@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-kharistokes9494-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kharistokes9494/)](https://www.linkedin.com/in/kharistokes9494/) [![Github Badge](https://img.shields.io/badge/-stokedforkhari-grey?style=flat&logo=github&logoColor=white&link=https://github.com/stokedforkhari/)](https://www.github.com/stokedforkhari/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/stokedforkhari/Data_Projects_Portfolio/)](https://github.com/stokedforkhari/Data_Projects_Portfolio/) <p align='left'>I'm Khari, a fitness-driven, adventure-hungry car enthusiast who finds balance between high-performance and high-speed curves. Whether I'm exploring the streets of Tokyo, the shores of the Amalfi Coast, or the gym floor chasing new PRs, I'm all about leveling up. I grew up in Los Angeles and moved to the San Francisco Bay Area to chase opportunities and accomplish my goals.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1BP4MMD24zWZg6W79xLGvLIsEJS2OGZO4UejcjlU3EoI/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=stokedforkhari alt=stokedforkhari /> </p>
 
-[readme.txt](https://github.com/user-attachments/files/19406221/readme.txt)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=stokedforkhari&show_icons=true&include_all_commits=true)](https://github.com/stokedforkhari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stokedforkhari&layout=compact)](https://github.com/stokedforkhari/github-readme-stats)
